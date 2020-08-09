@@ -1,38 +1,38 @@
-<mxfile host="app.diagrams.net" modified="2020-08-09T14:11:08.388Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="CV5RH8VZqL8LVCHq9Lg7" version="13.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-09T15:46:18.556Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="QfRw_ko-7kX84OuQPZvZ" version="13.6.1" type="github">
   <diagram id="IaiarV4zrtLxRmWvXDIx" name="Page-1">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="4EMHORrEHme-lxzbdlqC-1" value="START" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="4EMHORrEHme-lxzbdlqC-1" value="START" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="350" y="30" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4EMHORrEHme-lxzbdlqC-2" value="구성/해지탭&amp;nbsp;&lt;br&gt;바로 이동" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+        <mxCell id="4EMHORrEHme-lxzbdlqC-2" value="구성/해지탭&amp;nbsp;&lt;br&gt;바로 이동" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="340" y="90" width="100" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="4EMHORrEHme-lxzbdlqC-4" value="선번장 현행화&amp;nbsp;&lt;br&gt;버튼 클릭" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+        <mxCell id="4EMHORrEHme-lxzbdlqC-4" value="선번장 현행화&amp;nbsp;&lt;br&gt;버튼 클릭" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="340" y="230" width="100" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="4EMHORrEHme-lxzbdlqC-5" value="(신) 전용번호로&lt;br&gt;기존 구성구간 XC 변경 GW 명령" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+        <mxCell id="4EMHORrEHme-lxzbdlqC-5" value="(신) 전용번호로&lt;br&gt;기존 구성구간 XC 변경 GW 명령" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="330" y="300" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="4EMHORrEHme-lxzbdlqC-7" value="작업 완료&lt;br&gt;버튼 클릭" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+        <mxCell id="4EMHORrEHme-lxzbdlqC-7" value="작업 완료&lt;br&gt;버튼 클릭" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="340" y="420" width="100" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="4EMHORrEHme-lxzbdlqC-8" value="장치접속 확인" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+        <mxCell id="4EMHORrEHme-lxzbdlqC-8" value="장치접속 확인" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="340" y="155" width="100" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="4EMHORrEHme-lxzbdlqC-9" value="선구성 후청약&lt;br&gt;인경우&lt;br&gt;(구성완료 작업서)" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="4EMHORrEHme-lxzbdlqC-9" value="선구성 후청약&lt;br&gt;인경우&lt;br&gt;(구성완료 작업서)" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="340" y="500" width="100" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="4EMHORrEHme-lxzbdlqC-10" value="FM (구) 전용회선 : translineStateUpdate -&amp;gt; DELETE&lt;br&gt;InterWorkDEL (신) 전용회선 구성 연동&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="320" y="700" width="300" height="65" as="geometry" />
+        <mxCell id="4EMHORrEHme-lxzbdlqC-10" value="FM (구) 전용회선 : translineStateUpdate -&amp;gt; DELETE&lt;br&gt;InterWorkDEL (신) 전용회선 구성 연동&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="270" y="700" width="300" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="4EMHORrEHme-lxzbdlqC-11" value="(신) 전용번호로 FM 구성 연동 &amp;amp;&lt;br&gt;Del 작업 완료 연동&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+        <mxCell id="4EMHORrEHme-lxzbdlqC-11" value="(신) 전용번호로 FM 구성 연동 &amp;amp;&lt;br&gt;Del 작업 완료 연동&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1" parent="1" vertex="1">
           <mxGeometry y="700" width="220" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="4EMHORrEHme-lxzbdlqC-12" value="(신) 전용번호&lt;br&gt;Del 청약인 경우" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="580" y="577.5" width="100" height="80" as="geometry" />
+        <mxCell id="4EMHORrEHme-lxzbdlqC-12" value="(신) 전용번호&lt;br&gt;Del 청약인 경우" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="530" y="577.5" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="4EMHORrEHme-lxzbdlqC-13" value="Y" style="endArrow=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontStyle=1;fontSize=15;" parent="1" source="4EMHORrEHme-lxzbdlqC-11" target="4EMHORrEHme-lxzbdlqC-9" edge="1">
           <mxGeometry x="0.4359" width="50" height="50" relative="1" as="geometry">
@@ -49,17 +49,17 @@
             <mxPoint x="390" y="570" as="sourcePoint" />
             <mxPoint x="440" y="520" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="630" y="540" />
+              <mxPoint x="580" y="540" />
             </Array>
             <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4EMHORrEHme-lxzbdlqC-15" value="" style="endArrow=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSize=14;fontStyle=1" parent="1" source="4EMHORrEHme-lxzbdlqC-10" target="4EMHORrEHme-lxzbdlqC-12" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="770" as="sourcePoint" />
-            <mxPoint x="440" y="720" as="targetPoint" />
+            <mxPoint x="340" y="770" as="sourcePoint" />
+            <mxPoint x="390" y="720" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="470" y="618" />
+              <mxPoint x="420" y="618" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -68,65 +68,65 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4EMHORrEHme-lxzbdlqC-16" value="FM (구) 전용회선 : translineStateUpdate -&amp;gt; DELETE&lt;br&gt;IntetworkFM (신) 전용회선 구성 연동&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="700" y="700" width="300" height="65" as="geometry" />
+        <mxCell id="4EMHORrEHme-lxzbdlqC-16" value="FM (구) 전용회선 : translineStateUpdate -&amp;gt; DELETE&lt;br&gt;IntetworkFM (신) 전용회선 구성 연동&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="610" y="700" width="300" height="65" as="geometry" />
         </mxCell>
         <mxCell id="4EMHORrEHme-lxzbdlqC-17" value="N" style="endArrow=none;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSize=14;fontStyle=1" parent="1" source="4EMHORrEHme-lxzbdlqC-16" target="4EMHORrEHme-lxzbdlqC-12" edge="1">
           <mxGeometry x="0.2857" width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="440" y="650" as="sourcePoint" />
-            <mxPoint x="490" y="600" as="targetPoint" />
+            <mxPoint x="390" y="650" as="sourcePoint" />
+            <mxPoint x="440" y="600" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="850" y="618" />
+              <mxPoint x="760" y="618" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4EMHORrEHme-lxzbdlqC-18" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="4EMHORrEHme-lxzbdlqC-2" target="4EMHORrEHme-lxzbdlqC-1" edge="1">
+        <mxCell id="4EMHORrEHme-lxzbdlqC-18" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontStyle=1" parent="1" source="4EMHORrEHme-lxzbdlqC-2" target="4EMHORrEHme-lxzbdlqC-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="240" y="250" as="sourcePoint" />
             <mxPoint x="290" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4EMHORrEHme-lxzbdlqC-19" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="4EMHORrEHme-lxzbdlqC-8" target="4EMHORrEHme-lxzbdlqC-2" edge="1">
+        <mxCell id="4EMHORrEHme-lxzbdlqC-19" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontStyle=1" parent="1" source="4EMHORrEHme-lxzbdlqC-8" target="4EMHORrEHme-lxzbdlqC-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="240" y="250" as="sourcePoint" />
             <mxPoint x="290" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4EMHORrEHme-lxzbdlqC-20" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="4EMHORrEHme-lxzbdlqC-4" target="4EMHORrEHme-lxzbdlqC-8" edge="1">
+        <mxCell id="4EMHORrEHme-lxzbdlqC-20" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontStyle=1" parent="1" source="4EMHORrEHme-lxzbdlqC-4" target="4EMHORrEHme-lxzbdlqC-8" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="240" y="250" as="sourcePoint" />
             <mxPoint x="290" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4EMHORrEHme-lxzbdlqC-21" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="4EMHORrEHme-lxzbdlqC-5" target="4EMHORrEHme-lxzbdlqC-4" edge="1">
+        <mxCell id="4EMHORrEHme-lxzbdlqC-21" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontStyle=1" parent="1" source="4EMHORrEHme-lxzbdlqC-5" target="4EMHORrEHme-lxzbdlqC-4" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="240" y="450" as="sourcePoint" />
             <mxPoint x="290" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4EMHORrEHme-lxzbdlqC-22" value="" style="endArrow=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="4EMHORrEHme-lxzbdlqC-5" target="4EMHORrEHme-lxzbdlqC-7" edge="1">
+        <mxCell id="4EMHORrEHme-lxzbdlqC-22" value="" style="endArrow=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontStyle=1" parent="1" source="4EMHORrEHme-lxzbdlqC-5" target="4EMHORrEHme-lxzbdlqC-7" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="240" y="450" as="sourcePoint" />
             <mxPoint x="290" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4EMHORrEHme-lxzbdlqC-23" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="4EMHORrEHme-lxzbdlqC-9" target="4EMHORrEHme-lxzbdlqC-7" edge="1">
+        <mxCell id="4EMHORrEHme-lxzbdlqC-23" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontStyle=1" parent="1" source="4EMHORrEHme-lxzbdlqC-9" target="4EMHORrEHme-lxzbdlqC-7" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="240" y="550" as="sourcePoint" />
             <mxPoint x="290" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4EMHORrEHme-lxzbdlqC-25" value="END" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" parent="1" vertex="1">
+        <mxCell id="4EMHORrEHme-lxzbdlqC-25" value="END" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="90" y="765" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="4EMHORrEHme-lxzbdlqC-26" value="END" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="450" y="765" width="40" height="20" as="geometry" />
+        <mxCell id="4EMHORrEHme-lxzbdlqC-26" value="END" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="400" y="765" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="4EMHORrEHme-lxzbdlqC-27" value="END" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="827" y="765" width="40" height="20" as="geometry" />
+        <mxCell id="4EMHORrEHme-lxzbdlqC-27" value="END" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="777" y="765" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="SZAGpQV5Ku6kyoJLEka8-1" value="연동시작" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="SZAGpQV5Ku6kyoJLEka8-1" value="연동시작" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="355" y="465" width="70" height="20" as="geometry" />
         </mxCell>
       </root>
