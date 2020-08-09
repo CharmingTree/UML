@@ -1,1 +1,118 @@
-<mxfile host="app.diagrams.net" modified="2020-08-09T12:31:12.321Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" version="13.6.1" etag="V_4aTsLh36XBTAhYbDCf" type="github"><diagram id="bcyUheUCtKhDY8DWKBfK">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-08-09T14:13:01.662Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="RWIagWqIG7SSQkAaAjao" version="13.6.1" type="github">
+  <diagram id="bcyUheUCtKhDY8DWKBfK" name="Page-1">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="xOS7sGaZIywHaYwjPOGg-1" value="START" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="360" y="40" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xOS7sGaZIywHaYwjPOGg-2" value="GW :&lt;br&gt;(구) 전용번호 회선 해지 요청" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="350" y="110" width="100" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="xOS7sGaZIywHaYwjPOGg-3" value="(신) 전용번호 회선 설계" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="350" y="280" width="100" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="xOS7sGaZIywHaYwjPOGg-4" value="GW :&amp;nbsp;&lt;br&gt;(신) 전용번호 회선 구성 요청" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="350" y="420" width="100" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="xOS7sGaZIywHaYwjPOGg-5" value="장치접속 확인" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="350" y="350" width="100" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="xOS7sGaZIywHaYwjPOGg-6" value="(구) 전용번호 회선&lt;br&gt;해지 처리" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="340" y="180" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xOS7sGaZIywHaYwjPOGg-7" value="(신) 전용번호 회선&lt;br&gt;구성 처리" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="340" y="500" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xOS7sGaZIywHaYwjPOGg-8" value="작업 완료&lt;br&gt;버튼 클릭" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="350" y="610" width="100" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="xOS7sGaZIywHaYwjPOGg-9" value="연동시작" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="365" y="655" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xOS7sGaZIywHaYwjPOGg-10" value="(신) 전용번호&lt;br&gt;Del 청약인 경우" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="350" y="720" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xOS7sGaZIywHaYwjPOGg-11" value="FM (구) 전용회선 : translineStateUpdate -&amp;gt; DELETE&lt;br&gt;InterWorkDEL (신) 전용회선 구성 연동&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="50" y="890" width="300" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="xOS7sGaZIywHaYwjPOGg-12" value="FM (구) 전용회선 : translineStateUpdate -&amp;gt; DELETE&lt;br&gt;IntetworkFM (신) 전용회선 구성 연동&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="460" y="890" width="300" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="xOS7sGaZIywHaYwjPOGg-13" value="Y" style="endArrow=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSize=14;fontStyle=1" edge="1" parent="1" source="xOS7sGaZIywHaYwjPOGg-11" target="xOS7sGaZIywHaYwjPOGg-10">
+          <mxGeometry x="0.4286" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="790" as="sourcePoint" />
+            <mxPoint x="440" y="740" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="200" y="760" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xOS7sGaZIywHaYwjPOGg-14" value="" style="endArrow=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="xOS7sGaZIywHaYwjPOGg-10" target="xOS7sGaZIywHaYwjPOGg-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="790" as="sourcePoint" />
+            <mxPoint x="440" y="740" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="610" y="760" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xOS7sGaZIywHaYwjPOGg-23" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontStyle=1" vertex="1" connectable="0" parent="xOS7sGaZIywHaYwjPOGg-14">
+          <mxGeometry x="-0.3517" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xOS7sGaZIywHaYwjPOGg-15" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="xOS7sGaZIywHaYwjPOGg-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="110" as="sourcePoint" />
+            <mxPoint x="440" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xOS7sGaZIywHaYwjPOGg-16" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="xOS7sGaZIywHaYwjPOGg-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="180" as="sourcePoint" />
+            <mxPoint x="440" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xOS7sGaZIywHaYwjPOGg-17" value="" style="endArrow=none;html=1;entryX=0.517;entryY=0.9;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="xOS7sGaZIywHaYwjPOGg-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="402" y="280" as="sourcePoint" />
+            <mxPoint x="440" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xOS7sGaZIywHaYwjPOGg-18" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="xOS7sGaZIywHaYwjPOGg-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="350" as="sourcePoint" />
+            <mxPoint x="440" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xOS7sGaZIywHaYwjPOGg-19" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="xOS7sGaZIywHaYwjPOGg-4" target="xOS7sGaZIywHaYwjPOGg-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="390" as="sourcePoint" />
+            <mxPoint x="440" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xOS7sGaZIywHaYwjPOGg-20" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="xOS7sGaZIywHaYwjPOGg-7" target="xOS7sGaZIywHaYwjPOGg-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="390" as="sourcePoint" />
+            <mxPoint x="440" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xOS7sGaZIywHaYwjPOGg-21" value="" style="endArrow=none;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0.938;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="xOS7sGaZIywHaYwjPOGg-8" target="xOS7sGaZIywHaYwjPOGg-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="490" as="sourcePoint" />
+            <mxPoint x="402" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xOS7sGaZIywHaYwjPOGg-22" value="" style="endArrow=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="xOS7sGaZIywHaYwjPOGg-9" target="xOS7sGaZIywHaYwjPOGg-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="690" as="sourcePoint" />
+            <mxPoint x="440" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
